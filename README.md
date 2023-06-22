@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @son1403
 - 👀 I’m interested in Data fields and related. Feeling happy when find out secrets behind the number
-- 🌱 I’m currently working at VietinBank Insurance as an Actuary/Data Scientist
+- 🌱 I’m currently working at VietinBank Insurance as an Actuary/Data Analyst
 - 📫 Reach me via: 
     Linkedin: linkedin.com/in/pnson1403/
 
